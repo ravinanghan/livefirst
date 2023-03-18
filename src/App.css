@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  color: white;
+  min-height: 100vh; 
+}
+h1 {
+  margin: 0px ;
+}
+.header{
+  background: rgb(11, 91, 144);
+  padding: 7px;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 7px;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading{
+  color: black;
+  margin: 10px;
+  font-size: 80px;
+}
