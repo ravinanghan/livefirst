@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livefirst/static/css/main.63e83403.css",
+    "main.js": "/livefirst/static/js/main.07801f28.js",
+    "static/js/787.28cb0dcd.chunk.js": "/livefirst/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/livefirst/index.html",
+    "main.63e83403.css.map": "/livefirst/static/css/main.63e83403.css.map",
+    "main.07801f28.js.map": "/livefirst/static/js/main.07801f28.js.map",
+    "787.28cb0dcd.chunk.js.map": "/livefirst/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e83403.css",
+    "static/js/main.07801f28.js"
+  ]
+}
